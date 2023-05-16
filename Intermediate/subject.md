@@ -2,7 +2,7 @@
 
 For a given number `n` draw a descending stair whith `n` stairs with the `*` character.
 
-## example
+## Example
 
 ```txt
 n == 5
