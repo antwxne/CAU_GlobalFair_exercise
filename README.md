@@ -22,7 +22,7 @@ cmake .. && cmake ---build .
 
 ### Code editor / IDE
 
-Also it's possible to run the code from VSCode, Clion, VSC. 
+Also it's possible to run the code from VSCode, Clion, VSC.
 Just load the CMakelist then run the exercise.
 
 ## Files
