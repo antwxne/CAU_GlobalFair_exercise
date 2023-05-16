@@ -10,5 +10,5 @@ char *invert_str(char *str)
         str[i] = str[len - i];
         str[len - i] = c;
     }
-    return (str);
+    return str;
 }
