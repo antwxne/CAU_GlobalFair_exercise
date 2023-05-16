@@ -7,6 +7,6 @@ int main(void)
     char str[] = "ABCDE";
 
     printf("Given string == %s\n", str);
-    printf("Revesed string == %s\n", invert_str(str));
+    printf("Reversed string == %s\n", invert_str(str));
     return 0;
 }
